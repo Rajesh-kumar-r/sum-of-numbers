@@ -42,7 +42,7 @@ ISC
 [1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
 [2.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
 
-[1]: https://github.com/Rajesh-kumar-r
-[2]: https://twitter.com/Rajeshkumar_kgm
+[1]: https://twitter.com/Rajeshkumar_kgm
+[2]: https://github.com/Rajesh-kumar-r
 # Follow me on
 [![twitter][1.1]][1] [![github][2.1]][2]
