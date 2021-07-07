@@ -1,4 +1,4 @@
-function sum(arr) {
+function sumOfAray(arr) {
     return arr.reduce((acc, element)=>acc+element,0)
 }
-module.exports = sum;
+module.exports = sumOfAray;
