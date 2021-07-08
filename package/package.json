@@ -1,6 +1,6 @@
 {
   "name": "@rajesh_kumar_kgm/sum-of-array",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "get sum of numbers in array",
   "main": "index.js",
   "directories": {
